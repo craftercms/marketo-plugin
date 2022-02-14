@@ -1,10 +1,10 @@
-# Marketo Plugin for Crafter CMS
+# Marketo Plugin for CrafterCMS
 
 This is a plugin to add Marketo to your site.
 
 # Installation
 
-The plugin can be installed to your site from the Crafter CMS Marketplace
+The plugin can be installed to your site from the CrafterCMS Marketplace
 
 # Setup
 
